@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mah99239" alt="mah99239" /></a> </p>
 
-- 🔭 I’m currently working on [POS](https://github.com/mah99239/POS)
+- 🔭 I’m currently working on [POS](https://github.com/Case-Code/POS)
 
 - 🌱 I’m currently learning **Jetpack compose**
 
