@@ -1,15 +1,15 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mahmoud Abdalhafeez</h1>
 <h3 align="center">I am an Android developer with an ambition to continues learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mah99239&label=Profile%20views&color=0e75b6&style=flat" alt="mah99239" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mah99239" alt="mah99239" /></a> </p>
+
 - 🔭 I’m currently working on [POS](https://github.com/mah99239/POS)
 
 - 🌱 I’m currently learning **Jetpack compose**
 
-- 💬 Ask me about **Kotlin, Java, Coroutines, Rxjava,**
+- 💬 Ask me about **Kotlin, Java, Coroutines, Rxjava, MVVM, Clean Arch, Hilt, Unit testing**
 
 - 📫 How to reach me **mahmoudabdalhafeez98@gmail.com**
 
@@ -22,8 +22,8 @@
 <a href="https://dev.to/mah99239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mah99239" height="30" width="40" /></a>
 <a href="https://twitter.com/mahd9981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahd9981" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoudabdalhafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudabdalhafeez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8489876/mahmoud-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8489876/mahmoud-mohamed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mahmoudabdalhafeez98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mahmoudabdalhafeez98" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8489876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8489876" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahmoudabdalhafeez98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudabdalhafeez98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mah99239&show_icons=true&locale=en&layout=compact" alt="mah99239" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mah99239&show_icons=true&locale=en" alt="mah99239" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mah99239&" alt="mah99239" /></p>
